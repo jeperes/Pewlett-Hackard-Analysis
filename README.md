@@ -28,6 +28,10 @@ Create a mentorship-eligibility table that holds the current employees who were 
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-
+90,398 roles will need to be filled.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+No, there are only 1549 employees who are eligible to participate in a mentorship program. 
+
+
